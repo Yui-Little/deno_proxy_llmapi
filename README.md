@@ -15,6 +15,7 @@
 ![2](https://github.com/user-attachments/assets/9a6048fc-fd97-4cad-8ed4-27d91d555ba8)
 
 4. 复制粘贴本项目 `ts.txt` 文件所有代码
+![ts](https://github.com/user-attachments/assets/56a8ff6d-0794-4165-b488-16eabb1c5938)
 
 5. 点击 `Save & Deploy` 保存部署
 ![3](https://github.com/user-attachments/assets/cb80816e-4e6a-4ba3-86e7-7de44772e8b1)
