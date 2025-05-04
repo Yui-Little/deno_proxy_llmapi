@@ -4,8 +4,6 @@
 
 快速搭建 多种 API 代理服务
 
-![Deno标志](https://deno.land/logo.svg) ![xAI标志](https://x.ai/favicon.ico)
-
 ## 🚀 快速开始
 
 1. ​**注册/登录**​ [Deno Deploy](https://dash.deno.com/)
