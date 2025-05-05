@@ -1,5 +1,5 @@
 # deno_proxy_llmapi
-利用deno进行api代理
+利用deno搭建api代理
 # Deno Playground 部署指南
 
 快速搭建 多种 API 反代服务
